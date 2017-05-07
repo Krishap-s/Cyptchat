@@ -5,3 +5,4 @@ username$ python cyptchat -t [type of machine] -H [Server Host name] -p [Server 
 -p : your server's port
 -k : the encryption password u shared with your friends before chatting
 -U : The name u want to appear as in the chatroom
+Note : Dependencies incluse Python( of course) Pycrypto and cryptography
